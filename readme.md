@@ -10,4 +10,12 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+ _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+ 1) Clone the repo using "git clone https://github.com/ObelusFamily/Anythink-Market-e72xe.git"
+
+ 2) Install Docker and Start it
+
+ 3) Open terminal in the project folder
+
+ 4) Run "docker-compose up"
